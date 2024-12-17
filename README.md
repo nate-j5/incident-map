@@ -4,7 +4,7 @@ This app allows users view incident data by city.
 
 The data is not accurate, but it demonstrates how incident data could display in the future.
 
-Link: [Live Demo](https://github.com/)  
+Link: [Live Demo](https://incident-map.onrender.com/)  
 
 > Note: Please allow up to 30 seconds for the site to load - it's hosted for free. 
 

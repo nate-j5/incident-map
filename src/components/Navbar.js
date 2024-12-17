@@ -20,7 +20,7 @@ function Navbar() {
       <div className="hidden md:flex space-x-6">
         <a
           className="text-white font-extralight text-xs hover:text-white transition"
-          href="https://github.com/"
+          href="https://github.com/nate-j5/incident-map"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="View Code"
