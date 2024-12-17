@@ -1,0 +1,68 @@
+[
+  {
+    "city": "San Francisco",
+    "state": "California",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "population": 873965,
+    "popular_sectors": [
+      {
+        "name": "Finance",
+        "incident_rate": 14
+      },
+      {
+        "name": "Technology",
+        "incident_rate": 11
+      },
+      {
+        "name": "Education",
+        "incident_rate": 19
+      }
+    ],
+    "incident_io_accuracy_estimate": 95
+  },
+  {
+    "city": "London",
+    "state": "England",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "population": 9002488,
+    "popular_sectors": [
+      {
+        "name": "Financial Services",
+        "incident_rate": 12
+      },
+      {
+        "name": "Creative Industries",
+        "incident_rate": 8
+      },
+      {
+        "name": "Media and Publishing",
+        "incident_rate": 15
+      }
+    ],
+    "incident_io_accuracy_estimate": 93
+  },
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "population": 964254,
+    "popular_sectors": [
+      {
+        "name": "Technology",
+        "incident_rate": 10
+      },
+      {
+        "name": "Music and Entertainment",
+        "incident_rate": 7
+      },
+      {
+        "name": "Education",
+        "incident_rate": 16
+      }
+    ],
+    "incident_io_accuracy_estimate": 96
+  }
+]
